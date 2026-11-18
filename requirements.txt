@@ -5,4 +5,4 @@ pydantic[email]
 python-jose[cryptography]
 bcrypt
 python-dotenv
-psycopg[binary]==3.2.9
+psycopg[binary]==3.2.13
